@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashika20643
 - 👀 I’m interested in web devolopment and algorithms
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫  reach me using sashikadulaj20643@gmail.com
 
